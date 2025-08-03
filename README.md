@@ -1,7 +1,7 @@
-# Eleanor-Thomson
+# Eleanor Thomson
 Portfolio developed during my IT undergrad at Texas Tech and MS in Data Science. Showcases projects in Python and SQL, including web scraping, BI dashboards, and automation. Highlights skills in data analytics, modeling, and real-world problem-solving.
 
-# Eleanor Thomson – Technical Portfolio 👩‍💻
+# Technical Portfolio 
 
 Welcome to my data and technology portfolio! I'm a recent graduate from Texas Tech University with a Bachelor's in Information Technology and currently pursuing a Master’s in Data Science & Quantitative Studies. My passion lies in leveraging data to solve real-world problems and building solutions with code, analytics, and insight.
 
