@@ -3,7 +3,8 @@ Portfolio developed during my IT undergrad at Texas Tech and MS in Data Science.
 
 # Technical Portfolio 
 
-Welcome to my data and technology portfolio! I'm a recent graduate from Texas Tech University with a Bachelor's in Information Technology and currently pursuing a Master’s in Data Science & Quantitative Studies. My passion lies in solving real-world problems and building solutions with code, analytics, and insight! This repository showcases a range of technical projects, including data science applications, web scraping, business intelligence dashboards, and systems automation. Demonstrates proficiency in Python and SQL, with supporting experience in Tableau, R, and data modeling. Built to reflect hands-on problem-solving, real-world data analysis, and a strong foundation in both theory and application of modern data technologies.
+Welcome to my data and technology portfolio! 
+I'm a recent graduate from Texas Tech University with a Bachelor's in Information Technology and currently pursuing a Master’s in Data Science & Quantitative Studies. My passion lies in solving real-world problems and building solutions with code, analytics, and insight! This repository showcases a range of technical projects, including data science applications, web scraping, business intelligence dashboards, and systems automation. Demonstrates proficiency in Python and SQL, with supporting experience in Tableau, R, and data modeling. Built to reflect hands-on problem-solving, real-world data analysis, and a strong foundation in both theory and application of modern data technologies.
 
 ## About Me
 -  Texas Tech University, B.S. in Information Technology (2025)
