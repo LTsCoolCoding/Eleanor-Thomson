@@ -16,10 +16,9 @@ I'm a recent graduate from Texas Tech University with a Bachelor's in Informatio
 ## Projects
 
 | Project | Description | Tech Used |
-|--------|-------------|-----------|
-| [Web Scraping + BI Analysis](./Web-Scraping-GovData) | Scraped, cleaned, and analyzed multi-source government data to create actionable business insights | Python, Pandas, Matplotlib |
-| [System Design for SSL Inc.](./SSL-Inc-System-Proposal) | Proposed automation and system workflows using ERDs, process flows, and functional specs | Lucidchart, UML, System Analysis |
-| [Tableau + SQL Dashboard](./Tableau-Dashboard) | Developed a dashboard and custom SQL queries from mock e-commerce data | Tableau, SQL |
+|---------|-------------|-----------|
+|[Financial Market Data Analysis](./FINAL_PROJECT) | Collected and analyzed current market data and macroeconomic indicators to calculate annual returns and explore trends within the 
+| financial markets. | Python, Pandas, yfinance |
 
 ## Resume
 Check out my [resume here](./Resume/Eleanor_Thomson_Resume2025.pdf).
