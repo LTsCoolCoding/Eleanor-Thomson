@@ -5,7 +5,7 @@ Portfolio developed during my IT undergrad at Texas Tech and MS in Data Science.
 
 Welcome to my data and technology portfolio! 
 
-I'm a recent graduate from Texas Tech University with a Bachelor's in Information Technology and currently pursuing a Master’s in Data Science & Quantitative Studies. My passion lies in solving real-world problems and building solutions with code, analytics, and insight! This repository showcases a range of technical projects, including data science applications, web scraping, business intelligence dashboards, and systems automation. Demonstrates proficiency in Python and SQL, with supporting experience in Tableau, R, and data modeling. Built to reflect hands-on problem-solving, real-world data analysis, and a strong foundation in both theory and application of modern data technologies.
+I'm a recent graduate from Texas Tech University with a Bachelor's in Information Technology and currently pursuing a Master’s in Data Science & Quantitative Studies. This repository showcases a range of technical projects, including data science applications, web scraping, business intelligence dashboards, and systems automation. Demonstrates proficiency in Python and SQL, with supporting experience in Tableau, R, and data modeling. 
 
 ## Get To Know Me!
 -  Texas Tech University, B.S. in Information Technology (2025)
@@ -22,11 +22,7 @@ I'm a recent graduate from Texas Tech University with a Bachelor's in Informatio
 ## Resume
 Check out my [resume here](./Resume/Eleanor_Thomson_Resume2025.pdf).
 
-## Currently Working On
-- Time Series forecasting using Python
-- Automating workflows with Pandas & open APIs
-- Building my personal website with GitHub Pages
-
 ---
+[Eleanor_Thomson.pdf](https://github.com/user-attachments/files/21765158/Eleanor_Thomson.pdf)
 
 Thanks for visiting! Feel free to reach out via email: Eleanor.Thomson2022@gmail.com or cell: 214.970.6991
