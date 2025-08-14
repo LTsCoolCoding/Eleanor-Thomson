@@ -17,8 +17,7 @@ I'm a recent graduate from Texas Tech University with a Bachelor's in Informatio
 
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-|[Financial Market Data Analysis](./FINAL_PROJECT) | Collected and analyzed current market data and macroeconomic indicators to calculate annual returns and explore trends within the 
-| financial markets. | Python, Pandas, yfinance |
+|[Financial Market Data Analysis](./FINAL_PROJECT) | Collected and analyzed current market data and macroeconomic indicators to calculate annual returns and explore trends within the financial markets. | Python, Pandas, yfinance |
 
 ## Resume
 Check out my [resume here](./Resume/Eleanor_Thomson_Resume2025.pdf).
