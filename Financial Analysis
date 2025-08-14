@@ -1,0 +1,38 @@
+FINAL_PROJECT.py 
+# Financial Market Data Analysis & Economic Indicators
+
+## 📌 Overview
+This project collects, cleans, and analyzes historical financial market data for multiple asset classes — including the **S&P 500, Dow Jones, NASDAQ, Gold, Oil, and Bitcoin** — over the period **2010–2024**.  
+It uses the `yfinance` library to pull daily price data, formats and fills missing values, and calculates **annual returns** based on year-end prices.  
+The analysis also integrates **macroeconomic indicators** such as the **U.S. M2 money supply** and **employment statistics** from FRED (Federal Reserve Economic Data), enabling deeper business intelligence insights.
+
+---
+
+## 🛠️ Tools & Skills
+- **Languages:** Python
+- **Libraries:** `yfinance`, `pandas`, `datetime`
+- **Concepts:** Data cleaning, financial time series analysis, economic indicator integration, CSV export
+- **Data Sources:**
+  - Yahoo Finance (market prices)
+  - Federal Reserve Economic Data (M2 money supply)
+  - Bureau of Labor Statistics (employment data)
+
+---
+
+## Project Workflow
+1. Data Collection**
+   - Download 10+ years of historical price data for equities, commodities, and cryptocurrency.
+   - Retrieve macroeconomic datasets from FRED and BLS.
+
+2. **Data Cleaning**
+   - Remove unnecessary columns and blank rows.
+   - Forward-fill missing values for non-trading days.
+
+3. **Feature Engineering**
+   - Calculate annual returns using December 31 closing prices.
+   - Create monthly snapshots for additional analysis.
+
+4. **Output**
+   - Save cleaned datasets and calculated returns to CSV files for dashboarding or further analysis.
+
+---
