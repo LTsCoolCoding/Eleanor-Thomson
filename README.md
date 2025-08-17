@@ -1,27 +1,40 @@
-# Eleanor Thomson
-Portfolio developed during my IT undergrad at Texas Tech and MS in Data Science. Showcases projects in Python and SQL, including web scraping, BI dashboards, and automation. Highlights skills in data analytics, modeling, and real-world problem-solving.
+# Financial Analysis and Comparison 
+- Using Webscraping and HTML
 
-# Technical Portfolio 
 
-Welcome to my data and technology portfolio! 
+## Overview
+This project collects, cleans, and analyzes historical financial market data for multiple asset classes — including the **S&P 500, Dow Jones, NASDAQ, Gold, Oil, and Bitcoin** — over the period **2010–2024**.  
 
-I'm a recent graduate from Texas Tech University with a Bachelor's in Information Technology and currently pursuing a Master’s in Data Science & Quantitative Studies. This repository showcases a range of technical projects, including data science applications, web scraping, business intelligence dashboards, and systems automation. Demonstrates proficiency in Python and SQL, with supporting experience in Tableau, R, and data modeling. 
-
-## Get To Know Me!
--  Texas Tech University, B.S. in Information Technology (2025)
--  M.S. in Data Science & Quantitative Studies (2026)
--  Interests: Business Intelligence, Software Development, Data Analytics, Cybersecurity, System Analysis
--  Technical Skills: Python, SQL and ERD Modeling, Tableau, Excel, Java, R, VS Code, GitHub 
-
-## Projects
-
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-|[Financial Market Data Analysis](./FINAL_PROJECT) | Collected and analyzed current market data and macroeconomic indicators to calculate annual returns and explore trends within the financial markets. | Python, Pandas, yfinance |
-
-## Resume
-Check out my resume: [Eleanor_Thomson.pdf](https://github.com/user-attachments/files/21765868/Eleanor_Thomson.pdf).
+It uses the `yfinance` library to pull daily price data, formats and fills missing values, and calculates **annual returns** based on year-end prices.  
+The analysis also integrates **macroeconomic indicators** such as the **U.S. M2 money supply** and **employment statistics** from FRED (Federal Reserve Economic Data), enabling deeper business intelligence insights.
 
 ---
 
-Thanks for visiting! Feel free to reach out via email: eleanor.thomson2022@gmail.com 
+## Tools & Skills
+- Languages: Python
+- Libraries: `yfinance`, `pandas`, `datetime`
+- Concepts: Data cleaning, financial time series analysis, economic indicator integration, CSV export
+- Data Sources:
+  - Yahoo Finance (market prices)
+  - Federal Reserve Economic Data (M2 money supply)
+  - Bureau of Labor Statistics (employment data)
+
+---
+
+## Project Workflow
+1. Data Collection
+   - Download 10+ years of historical price data for equities, commodities, and cryptocurrency.
+   - Retrieve macroeconomic datasets from FRED and BLS.
+
+2. Data Cleaning
+   - Remove unnecessary columns and blank rows.
+   - Forward-fill missing values for non-trading days.
+
+3. Feature Engineering
+   - Calculate annual returns using December 31 closing prices.
+   - Create monthly snapshots for additional analysis.
+
+4. Output
+   - Save cleaned datasets and calculated returns to CSV files for dashboarding or further analysis.
+
+---
